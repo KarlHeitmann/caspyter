@@ -1,6 +1,13 @@
+
 *.sw?
+*\~
 *.pyc
 *.pyo
-*\~
+*.log
 
 lib/
+notebook/.ipynb_checkpoints/
+
+
+
+
